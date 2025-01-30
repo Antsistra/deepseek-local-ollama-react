@@ -40,9 +40,6 @@ This project is a React-based simple chat application that uses the Ollama API f
 
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Styling
-
-This project uses Tailwind CSS for styling. You can customize the styles by editing the `tailwind.config.js` file.
 
 ## Contributing
 
